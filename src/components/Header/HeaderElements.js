@@ -56,8 +56,26 @@ export const NavBtn = styled.div`
   display: flex;
   align-items: center;
   margin-right: 24px;
-COLOR: #ff6600;
+
+  .btn {
+    background-color: #ff8c00; /* Orange */
+    color: #ffffff; /* Blanc */
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+  }
+
+  .btn:hover {
+    background-color: #e07b00; /* Orange plus foncé au survol */
+  }
+
   @media screen and (max-width: 768px) {
     display: none;
   }
 `;
+

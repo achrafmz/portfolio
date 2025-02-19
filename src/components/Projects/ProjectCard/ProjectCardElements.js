@@ -58,7 +58,40 @@ export const BtnGroup = styled.div`
   height: 70px;
   display: flex;
   align-items: center;
+
+  .btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+
+  .PrimaryBtn {
+    background-color: #ff8c00; /* Orange */
+    color: #ffffff; /* Blanc */
+  }
+
+  .PrimaryBtn:hover {
+    background-color: #e07b00; /* Orange foncé au survol */
+  }
+
+  .SecondaryBtn {
+    background-color: #ffffff; /* Blanc */
+    color: #ff8c00; /* Orange */
+    border: 2px solid #ff8c00;
+  }
+
+  .SecondaryBtn:hover {
+    background-color: #ff8c00;
+    color: #ffffff;
+  }
 `;
+
 
 export const TechCardContainer = styled.div`
   display: flex;

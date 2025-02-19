@@ -27,4 +27,25 @@ export const Email = styled.div`
       font-size: 1.5rem;
     }
   }
+
+  .btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+
+  .PrimaryBtn {
+    background-color: #ff8c00; /* Orange */
+    color: #ffffff; /* Blanc */
+  }
+
+  .PrimaryBtn:hover {
+    background-color: #e07b00; /* Orange foncé au survol */
+  }
 `;
