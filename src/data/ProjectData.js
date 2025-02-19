@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/images/BISMART.png",
+    img: "/images/bismart.png",
     title: "BI3SMART",
     description:
       "A dynamic web application for e-commerce that integrates a smart chatbot to assist customers with product recommendations, order tracking, and customer support in real time. ",
@@ -38,7 +38,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/images/power.png",
+    img: "/images/POWER.png",
     title: "Power Fitness",
     description:
       "A web application for a gym where users can easily book a free trial session. The platform also includes a management system for administrators to handle memberships, organize workout sessions, and monitor member bookings for free trials. Admins can update pricing information.",
