@@ -16,7 +16,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="react.png"
+            src="/images/react.png"
             alt="Certification 1"
             className="certificate-image"
           />
@@ -31,7 +31,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="java.png"
+            src="/images/java.png"
             alt="Certification 2"
             className="certificate-image"
           />
@@ -44,7 +44,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="unix.png"
+            src="/images/unix.png"
             alt="Certification 1"
             className="certificate-image"
           />
@@ -57,7 +57,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="uml.png"
+            src="/images/uml.png"
             alt="Certification 1"
             className="certificate-image"
           />
@@ -70,7 +70,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="html.png"
+            src="/images/html.png"
             alt="Certification 1"
             className="certificate-image"
           />
@@ -83,7 +83,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="SQL.png"
+            src="/images/SQL.png"
             alt="Certification 1"
             className="certificate-image"
           />
@@ -96,7 +96,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="c.png"
+            src="/images/c.png"
             alt="Certification 1"
             className="certificate-image"
           />
@@ -109,7 +109,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="js.png"
+            src="/images/js.png"
             alt="Certification 1"
             className="certificate-image"
           />
@@ -122,7 +122,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="web.png"
+            src="/images/web.png"
             alt="Certification 1"
             className="certificate-image"
           />
@@ -134,7 +134,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="react.png"
+            src="/images/html.png"
             alt="Certification 1"
             className="certificate-image"
           />
