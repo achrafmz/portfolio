@@ -147,7 +147,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="adv.png"
+            src="/images/adv.png"
             alt="Certification 1"
             className="certificate-image"
           />
