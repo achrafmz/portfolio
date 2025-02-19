@@ -47,8 +47,7 @@ function Hero() {
                     'A Full-Stack Developer.',
                     1000,
                     'A Creative Thinker.',
-                    // 'I design and code beautifully simple things, and I love what I do.',
-                    1000,
+                     1000,
                     'A problem solver.',
                     1000,
                     'A Digital Innovator .',
@@ -66,7 +65,7 @@ function Hero() {
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
   <Image
-    src="/ph.png"
+    src="/images/ph.png"
     alt="man-svgrepo"
     style={{ width: '300px', height: 'auto' }} // Changez les dimensions selon vos besoins
   />
