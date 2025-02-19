@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/dons.png",
+    img: "/images/dons.png",
     title: "Association Najd",
     description:
       "A cross-platform desktop application that streamlines donation management for associations, providing efficient tracking and transparent reporting.",
@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/BISMART.png",
+    img: "/images/BISMART.png",
     title: "BI3SMART",
     description:
       "A dynamic web application for e-commerce that integrates a smart chatbot to assist customers with product recommendations, order tracking, and customer support in real time. ",
@@ -20,7 +20,7 @@ export const ProjectList = [
     
   },
   {
-    img: "/umlap.png",
+    img: "/images/umlap.png",
     title: "Editeur  diagramme de classes",
     description:
       "A web application for creating UML class diagrams where users can define classes, attributes, and methods, and automatically generate  code in Python, PHP, and Java.",
@@ -29,7 +29,7 @@ export const ProjectList = [
     demo_url: "https://uml-app.vercel.app/",
   },
   {
-    img: "/dalwali.png",
+    img: "/images/dalwali.png",
     title: "Restaurant Dar Lwali",
     description:
       "A web application for restaurant reservations, allowing customers to easily book tables online. Users can select the date and time, and number of people, and receive instant booking confirmations. The app also provides features for managing reservations, checking availability.",
@@ -38,7 +38,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/power.png",
+    img: "/images/power.png",
     title: "Power Fitness",
     description:
       "A web application for a gym where users can easily book a free trial session. The platform also includes a management system for administrators to handle memberships, organize workout sessions, and monitor member bookings for free trials. Admins can update pricing information.",
