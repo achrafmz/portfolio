@@ -38,7 +38,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/images/power.PNG",
+    img: "/images/power.png",
     title: "Power Fitness",
     description:
       "A web application for a gym where users can easily book a free trial session. The platform also includes a management system for administrators to handle memberships, organize workout sessions, and monitor member bookings for free trials. Admins can update pricing information.",
