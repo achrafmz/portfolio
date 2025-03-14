@@ -153,6 +153,33 @@ function Certification() {
           />
           <p>Certification 12</p>
         </a>
+
+        <a
+          href="https://www.coursera.org/account/accomplishments/verify/8V7FGFZMB1WU"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="certificate-card"
+        >
+          <img
+            src="/images/docker.png"
+            alt="Certification 1"
+            className="certificate-image"
+          />
+          <p>Certification 1</p>
+        </a>
+        <a
+          href="https://www.coursera.org/account/accomplishments/verify/UODNESKTEZHP"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="certificate-card"
+        >
+          <img
+            src="/images/azure.png"
+            alt="Certification 1"
+            className="certificate-image"
+          />
+          <p>Certification 1</p>
+        </a>
         {/* Add more certifications as needed */}
       </div>
     </section>
