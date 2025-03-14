@@ -174,7 +174,7 @@ function Certification() {
           className="certificate-card"
         >
           <img
-            src="/images/azure.png"
+            src="/images/azure.PNG"
             alt="Certification 1"
             className="certificate-image"
           />
