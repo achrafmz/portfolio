@@ -94,14 +94,14 @@ function Dropdown({ isOpen, toggle }) {
         </NavLink>
       </NavMenu>
       <NavBtn onClick={toggle}>
-        <a
-          className="btn PrimaryBtn"
-          href="https://www.linkedin.com/in/achraf-mazouz-b308481a1/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Resume
-        </a>
+      <a
+  className="btn PrimaryBtn"
+  href="/Achraf-Mazouz.pdf"
+  download
+>
+  Resume
+</a>
+
       </NavBtn>
     </SiderBar>
   );
