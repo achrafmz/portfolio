@@ -46,6 +46,15 @@ export const ProjectList = [
     github_url: "https://github.com/achrafmz/projet-ge-stion-d-un-salle-de-sport-en-php",
     demo_url: "",
   },
+  {
+    img: "/images/quiz.jpg",
+    title: "Generateur des Quizzes en ligne",
+    description:
+      "notre application de quizzes interactive ! Que ce soit pour apprendre, s’amuser ou se défier entre amis, découvrez des centaines de questions dans différents domaines (culture générale, science, histoire, etc.).",
+    tech_stack: ["React", "SpringBoot", "Mysql","Firebase Authentication"],
+    github_url: "https://github.com/achrafmz/quiz-backend",
+    demo_url: "",
+  },
 ];
 
 // --------------------------------------- Skills
