@@ -160,5 +160,17 @@ export const stackList = [
     img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png",
     name: "Power BI",
   },
+  {
+    img: "https://www.svgrepo.com/show/354202/postman-icon.svg",
+    name: "Postman",
+  },
+  {
+    img: "https://www.svgrepo.com/show/448222/figma.svg",
+    name: "Figma",
+  },
+  {
+    img: "https://www.svgrepo.com/show/448236/linux.svg",
+    name: "Linux",
+  },
 ];
 
