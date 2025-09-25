@@ -48,12 +48,21 @@ export const ProjectList = [
   },
   {
     img: "/images/quiz.jpg",
-    title: "Generateur des Quizzes en ligne",
+    title: "Online Quiz Generator",
     description:
-      "notre application de quizzes interactive ! Que ce soit pour apprendre, s’amuser ou se défier entre amis, découvrez des centaines de questions dans différents domaines (culture générale, science, histoire, etc.).",
+      "Our interactive quiz application! Whether you want to learn, have fun, or challenge your friends, discover hundreds of questions across various fields (general knowledge, science, history, and more).",
     tech_stack: ["React", "SpringBoot", "Mysql","Firebase Authentication"],
     github_url: "https://github.com/achrafmz/quiz-backend",
     demo_url: "",
+  },
+  {
+    img: "/images/image.png",
+    title: "Online advertising platform",
+    description:
+      "A scalable advertising platform built with microservices architecture, enabling users to publish and manage ads, browse by categories, save favorites, and exchange messages securely. Each service users, ads, categories, favorites, messaging.",
+    tech_stack: ["React", "SpringBoot", "Mysql","Firebase Authentication"],
+    github_url: "https://github.com/achrafmz/quiz-backend",
+    demo_url: "https://mini-shop-ui.vercel.app/",
   },
 ];
 
