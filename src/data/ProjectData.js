@@ -57,11 +57,11 @@ export const ProjectList = [
   },
   {
     img: "/images/image.png",
-    title: "Online advertising platform",
+    title: "Web/mobile advertising platform",
     description:
       "A scalable advertising platform built with microservices architecture, enabling users to publish and manage ads, browse by categories, save favorites, and exchange messages securely. Each service users, ads, categories, favorites, messaging.",
-    tech_stack: ["React", "SpringBoot", "Mysql","Firebase Authentication"],
-    github_url: "https://github.com/achrafmz/quiz-backend",
+    tech_stack: ["React","Reactnative" ,"SpringBoot", "PosgreSQL"],
+    github_url: "",
     demo_url: "https://mini-shop-ui.vercel.app/",
   },
 ];
