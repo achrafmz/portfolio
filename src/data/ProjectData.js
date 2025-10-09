@@ -13,9 +13,9 @@ export const ProjectList = [
     img: "/images/bismart.png",
     title: "BI3SMART",
     description:
-      "A dynamic web application for e-commerce that integrates a smart chatbot to assist customers with product recommendations, order tracking, and customer support in real time. ",
-    tech_stack: ["Html", "Css", "JavaScript", "Django"],
-    github_url: "https://github.com/achrafmz/Bi3Smart",
+      "A dynamic web application for e-commerce with microservices architecture that integrates a smart chatbot to assist customers with product recommendations, order tracking, and customer support in real time. ",
+    tech_stack: [ "React", "Springboot","Mysql" ],
+    github_url: "",
     demo_url: "",
     
   },
