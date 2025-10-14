@@ -29,7 +29,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
         <a
   className="btn PrimaryBtn"
-  href="/Achraf_Mazouz.pdf"
+  href="/cv achraf-mazouz.pdf"
   download
 >
   Resume

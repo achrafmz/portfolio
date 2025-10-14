@@ -17,7 +17,8 @@ function About() {
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
-         
+           <link rel="icon" href="/images/fav.png" />
+
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
