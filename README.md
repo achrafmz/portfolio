@@ -1,4 +1,4 @@
 **Portfolio**
-Live Preview - [Click Here](https://achrafmazouz-ivory.vercel.app/)
+Live Preview - [Click Here](http://achrafmazouz.com/)
 
 
